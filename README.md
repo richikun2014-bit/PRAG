@@ -1,4 +1,4 @@
-# P-RAG
+# PRAG
 
 This directory contains a C++17 implementation of the PRAG system structure described in the paper draft and prompt notes.
 
