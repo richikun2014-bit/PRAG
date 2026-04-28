@@ -9,6 +9,7 @@
 #include "prag/common/mode_switch.hpp"
 #include "prag/server/encrypted_index.hpp"
 #include "prag/server/homomorphic_ops.hpp"
+#include "prag/server/retrieval_engine.hpp"
 #include "prag/server/update_engine.hpp"
 
 using namespace prag;
